@@ -1,0 +1,5 @@
+{
+  "first_Key": "Este es mi texto que necesito revisar",
+  "fourth_Key": "Se trata de un marcador de posición %%abecedario%%. Comprueba cómo se ve en el editor.",
+  "nested.key": "Esta clave está anidada dentro de un espacio de nombres."
+}

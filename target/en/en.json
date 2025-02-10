@@ -1,0 +1,25 @@
+{
+  "boolean_key": "--- true\n",
+  "fifth_Key": "At {1,time,::jmm} on {1,date,::dMMMM}, there was {2} on planet{0,number,integer}.",
+  "first_Key": "This is my text that I need to review",
+  "fourth_Key": "This is a placeholder %%abc%%. Check how it looks like in the editor.",
+  "icuKey": "{numPersons, plural, =0 {no persons} =1 {one person} other {# persons}}",
+  "key_with_description": "Check it out! This key has a description! (At least in some formats)",
+  "key_with_line-break": "This translations contains\na line-break.",
+  "nested.deeply.key": "Wow, this key is nested even deeper.",
+  "nested.key": "This key is nested inside a namespace.",
+  "pluralized_key": {
+    "one": "Only one pluralization found.",
+    "other": "Wow, you have %s pluralizations!",
+    "zero": "You have no pluralization."
+  },
+  "sample_collection": [
+    "first item",
+    "second item",
+    "third item"
+  ],
+  "second_Key": "This is some other text. Is the key segmented or not?",
+  "simple_key": "Just a simple key with a simple message.",
+  "third_Key": "It's sunny outside, I will sit next to that tree.",
+  "unverified_key": "This translation is not yet verified and waits for it. (In some formats we also export this status)"
+}
